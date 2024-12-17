@@ -17,7 +17,9 @@ Este projeto é uma calculadora simples desenvolvida com React. Ele permite real
 ### Clone e contribua
 
 1 - Clone o repositório;
+
 2 - Instale as dependências: npm install ou yarn install;
+
 Inicie o servidor de desenvolvimento: npm start ou yarn start;
 
 O aplicativo estará disponível em http://localhost:3000 (ou outra porta especificada).
